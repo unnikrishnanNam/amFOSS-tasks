@@ -13,3 +13,18 @@ for i in range(n-2):
     print(newNum)
 '''
 
+guard = None
+t = int(input('t:'))
+s = int(input('s:'))
+x = int(input('x:'))
+for i in range(s+1):
+    a = t + i*s
+    b = t + i*s + 1
+    if x != a and x != b:
+        guard = True
+    else:
+        guard = False
+if guard == True:
+    print('YES')
+else:
+    print('NO')
