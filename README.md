@@ -5,22 +5,22 @@
 
 | **No** |             **Task**             | **Status**     |
 |--------|:--------------------------------:|----------------|
-| [0]()      | Install Ubuntu                   | Done           |
-| [1]()      | Star all the amFOSS repositories | Done           |
-| [2]()      | Terminal Hunt                    | Done           |
-| [3]()      | Programming                      | Done           |
-| [4]()      | CineBot                          | Done           |
-| [5]()      | Find the Bug                     | Done           |
-| [6]()      | Flame Game                       | Done           |
-| [7]()      | Go Wasm                          | Done           |
-| [8]()      | Internet Explorer                | Done           |
-| [9]()      | Krypto Scrapper                  | Done           |
-| [10]()     | CS50                             | Attempted      |
-| [11]()     | Figma Ninja                      | Done           |
-| [12]()     | Bunny Heist                      | Not Done       |
-| [13]()     | Footfall Counter                 | Done           |
-| [14]()     | Bandit                           | Done           |
-| [15]()     | Project Euler                    | Partially Done |
+| [0](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-00)      | Install Ubuntu                   | Done           |
+| [1](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-01)      | Star all the amFOSS repositories | Done           |
+| [2](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-02)      | Terminal Hunt                    | Done           |
+| [3](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-03)      | Programming                      | Done           |
+| [4](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-04)      | CineBot                          | Done           |
+| [5](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-05)      | Find the Bug                     | Done           |
+| [6](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-06)      | Flame Game                       | Done           |
+| [7](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-07)      | Go Wasm                          | Done           |
+| [8](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-08)      | Internet Explorer                | Done           |
+| [9](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-09)      | Krypto Scrapper                  | Done           |
+| [10](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-10)     | CS50                             | Attempted      |
+| [11](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-11)     | Figma Ninja                      | Done           |
+| [12](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-12)     | Bunny Heist                      | Not Done       |
+| [13](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-13)     | Footfall Counter                 | Done           |
+| [14](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-14)     | Bandit                           | Done           |
+| [15](https://github.com/unnikrishnanNam/amFOSS-tasks/tree/main/Task-15)     | Project Euler                    | Done           |
 
 ## My experience
 
